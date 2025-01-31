@@ -1,0 +1,4 @@
+﻿*) Packing to Geogebra, http://hydra.nat.uni-magdeburg.de/packing/ssp/ssp.html
+\s*\d+\s*([^ ]+)\s*([^ ]+)\s*([^\n]+)
+"Sphere(($1, $2, $3),0.1)",
+new Proton { R = new($1, $2, $3) },\n

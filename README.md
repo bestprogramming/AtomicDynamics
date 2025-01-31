@@ -10,5 +10,5 @@ For example Plank constant: <br><br>
 public static readonly Big H = Parse("6.62607015") * Pow(10, -34);<br><br>
 The forces acting on all objects in a small time interval are calculated. The motion of individual objects in this small time interval is calculated and simulated.
 
-https://www.youtube.com/watch?v=r1ZsNVisYeQ
+https://www.youtube.com/watch?v=r1ZsNVisYeQ<br>
 https://www.youtube.com/watch?v=5OY9VKzKv8U

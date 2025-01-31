@@ -12,3 +12,9 @@ The forces acting on all objects in a small time interval are calculated. The mo
 
 https://www.youtube.com/watch?v=r1ZsNVisYeQ<br>
 https://www.youtube.com/watch?v=5OY9VKzKv8U
+
+## Categories
+- **Big numbers**: Contains basic mathematical operations with large numbers.
+- **Physics constants**: Physics constants are determined with large numbers
+- **Elementary particles**: The gravitational and electromagnetic forces that fundamental physics particles and atomic nuclei exert on each other are calculated.
+- **Physics simulation**: As a result, simulation is performed with OpenGL.
